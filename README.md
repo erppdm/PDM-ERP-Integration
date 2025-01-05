@@ -20,9 +20,8 @@ To separate master data maintenance between departments, authorisations can be a
 
 **PDM-ERP Integration** can communicate either directly with the ERP via API or via text files. In both cases, feedback is requested before an action is considered successful or failed.
 
-The **PDM-ERP integration** uses the Serial No. Generator to automatically create item numbers. Unique n:m number ranges are possible, eliminating the need for manual intervention when creating new articles.
+The **PDM-ERP integration** uses the [Serial No. Generator](https://github.com/erppdm/SWSNG) to automatically create item numbers. Unique n:m number ranges are possible, eliminating the need for manual intervention when creating new articles.
 
 In summary, **PDM-ERP Integration** offers a comprehensive and efficient solution for seamless data exchange and process optimisation between PDM and ERP systems, enhancing productivity and achieving significant reductions in manual effort.
 
-For a brief overview of the workflow and usability, a short video demonstration is available to showcase its capabilities in action.
-- URL https://github.com/erppdm/PDM-ERP-Integration/blob/775574f35526a5f23e3acf3cf795f603b1e4b867/BiI_V0.6.0_in_2%20minutes.mp4
+For a brief overview of the workflow and usability, a [short demonstration](https://github.com/erppdm/PDM-ERP-Integration/blob/8bb438f271238fccce53e02af944d86c6f0888d9/BiI_V0.6.0_in_2%20minutes.mp4) is available to showcase its capabilities in action.
