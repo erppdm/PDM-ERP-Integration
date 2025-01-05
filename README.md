@@ -1,6 +1,6 @@
 ## Introduction
 
-Efficient data management and seamless integration between PDM and ERP systems are critical for optimizing workflows and ensuring consistent data across departments. **PDM-ERP Integration**  addresses these needs by providing a robust, secure, and user-friendly solution that adapts to the company's specific requirements rather than forcing the company to conform to the software.
+Efficient data management and seamless integration between PDM and ERP systems are essential to optimising workflows and ensuring data consistency across departments. PDM-ERP integration meets these needs by providing a robust, secure and user-friendly solution that adapts to the specific requirements of the company, rather than forcing the company to adapt to the software.
 
 **PDM-ERP Integration V0.6.0** is a powerful and lightweight solution for:
 
