@@ -24,3 +24,5 @@ The **PDM-ERP integration** uses the Serial No. Generator to automatically creat
 
 In summary, **PDM-ERP Integration** offers a comprehensive and efficient solution for seamless data exchange and process optimisation between PDM and ERP systems, enhancing productivity and achieving significant reductions in manual effort.
 
+For a brief overview of the workflow and usability, a short video demonstration is available to showcase its capabilities in action.
+- URL https://github.com/erppdm/PDM-ERP-Integration/blob/775574f35526a5f23e3acf3cf795f603b1e4b867/BiI_V0.6.0_in_2%20minutes.mp4
